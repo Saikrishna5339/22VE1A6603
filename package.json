@@ -1,0 +1,31 @@
+{
+  "name": "22ve1a6603",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite"
+      
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saikrishna5339/22VE1A6603.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saikrishna5339/22VE1A6603/issues"
+  },
+  "homepage": "https://github.com/Saikrishna5339/22VE1A6603#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "typescript": "^5.8.3"
+  }
+}
